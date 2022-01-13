@@ -1,0 +1,8 @@
+{
+  "domain": "matrix",
+  "name": "Matrix",
+  "documentation": "https://www.home-assistant.io/integrations/matrix",
+  "requirements": ["matrix-nio==0.18.7","markdown==3.3.3","pillow==8.1.0", "ffmpeg-python==0.2.0"],
+  "codeowners": ["@amanning9"],
+  "version": "0.0.3"
+}
